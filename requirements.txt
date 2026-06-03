@@ -1,5 +1,4 @@
 streamlit
-tensorflow-cpu
 numpy
 pandas
 opencv-python-headless
@@ -7,3 +6,4 @@ Pillow
 pydicom
 scikit-image
 matplotlib
+tensorflow-cpu
