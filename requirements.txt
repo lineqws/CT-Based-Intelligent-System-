@@ -6,4 +6,4 @@ Pillow
 pydicom
 scikit-image
 matplotlib
-tensorflow-cpu
+tensorflow
